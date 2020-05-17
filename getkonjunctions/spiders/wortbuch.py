@@ -33,13 +33,14 @@ class WortbuchSpider(scrapy.Spider):
                     print()
                     print()
                     print('*****')
+                    word = columns[0].xpath('./strong/text()').extract_first()
+                    text = columns[1].xpath('./text()').extract()
+                    text = word.join(text);
+
                     yield {
-                        'word': columns[0].xpath('./strong/text()').extract(),
-                        'example': {
-                            'text': columns[1].xpath('./text()').extract(),
-                            'strong': columns[1].xpath('./strong/text()').extract()
-                        },
-                        'also': columns[2].xpath('./text()').extract(),
+                        'word': word,
+                        'example': text,
+                        'also': columns[2].xpath('./text()').extract_first(),
                     }
 
         # rows = response.Xpath("//table//tbody//tr")

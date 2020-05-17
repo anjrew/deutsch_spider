@@ -1,0 +1,123 @@
+word,example,also
+aber,"{'text': ['Ich arbeite gern, ', ' mein Job ist langweilig.'], 'strong': ['aber']}","Adverb,,Partikel"
+allein,"{'text': ['Die Botschaft hör’ ich wohl, ', ' mir fehlt der Glaube ', '.'], 'strong': ['allein']}",",,Adverb"
+allerdings,"{'text': ['Ich möchte ins Kino, ', ' habe ich keine Zeit.'], 'strong': ['allerdings']}","Adverb,,Partikel"
+als,"{'text': ['Es war warm in Paris, ', ' wir letztens dort waren.'], 'strong': ['als']}",
+also,"{'text': ['Jonas möchte zu Hause arbeiten, ', ' braucht er seine Ruhe.'], 'strong': ['also']}","Adverb,,Partikel"
+andererseits,"{'text': ['Ihr Sohn kränkte sie, ', ' machte er sie auch stolz.'], 'strong': ['andererseits']}",Adverb
+anschließend,"{'text': ['Erst räumen wir auf, ', ' gehen wir an den Strand.'], 'strong': ['anschließend']}",Adverb
+"ansonsten, ansonst","{'text': ['Es gab ein paar Fehler, ', ' ist aber alles in Ordnung.'], 'strong': ['ansonsten']}",Adverb
+anstatt,"{'text': ['Tom machte einen Ausflug, ', ' ein Gespräch mit Dirk ', ' führen.'], 'strong': ['anstatt', 'zu']}",
+auch,"{'text': ['Die Schüler schwiegen, auch der Lehrer machte kein Geräusch.'], 'strong': []}",
+(auch) wenn,"{'text': ['Ich helfe beim Aufbau, ', ' ihr mich nicht bezahlen könnt.'], 'strong': ['auch wenn']}",
+ausgenommen,"{'text': ['Ich widerspreche allen, ', ' meiner Frau.'], 'strong': ['ausgenommen']}",
+außer,"{'text': ['Mit deinem Lotterleben ist Schluss, ', ' du verbesserst deine Leistungen in der Schule.'], 'strong': ['außer']}",Präposition
+außerdem,"{'text': ['Ich kann gut Gitarre spielen, ', ' kann ich Noten lesen.'], 'strong': ['außerdem']}",Adverb
+bevor,"{'text': ['Ich möchte das Meer sehen, ', ' ich sterbe.'], 'strong': ['bevor']}",
+beziehungsweise,"{'text': ['Ich war mit Sabine bekannt ', ' befreundet'], 'strong': ['beziehungsweise']}",
+bis,"{'text': ['Sie wartete, ', ' alle Gäste im Bett waren.'], 'strong': ['bis']}","Adverb,,Präposition"
+bloß,"{'text': ['Ich laufe gern durch Rom, ', ' meine Schuhe sind zu eng.'], 'strong': ['bloß']}","Adjektiv,,Adverb,,Partikel"
+da,"{'text': ['Ich möchte dieses Buch lesen, ', ' ich die Autorin seit vielen Jahren mag.'], 'strong': ['da']}",Adverb
+dabei,"{'text': ['Das Geschirr ist zerbrochen, ', ' war es so sorgfältig verpackt.'], 'strong': ['dabei']}",Adverb
+dadurch,"{'text': ['Tim soll langsam fahren, ', ' spart er Benzin.'], 'strong': ['dadurch']}",Adverb
+dafür,"{'text': ['Rbekka will den Sonnenaufgang sehen, ', ' ist sie heute besonders früh aufgestanden.'], 'strong': ['dafür']}",Adverb
+dagegen,"{'text': ['Mein Vater hat keine Kondition, ', ' bin ja sogar ich richtig sportlich.'], 'strong': ['dagegen']}",Adverb
+damit,"{'text': ['Er ', ' das Wort, ', ' es alle verstanden.'], 'strong': ['damit']}",Adverb
+danach,"{'text': ['Voran liefen die Eltern, ', ' kamen die Kinder'], 'strong': ['danach']}",Adverb
+dann,"{'text': ['Mach den Abwasch, ', ' können wir über deinen Geburtstag reden.'], 'strong': ['dann']}",Adverb
+darauf,"{'text': ['Am Ende der Straße ist das Haus, ', ' müsst ihr zugehen'], 'strong': ['darauf']}",Adverb
+darum,"{'text': ['Das Fahrrad hatte einige Mängel, ', ' hat Greta es nicht gekauft.'], 'strong': ['darum']}",Adverb
+dass,"{'text': ['Tom hat sich gefreut, ', ' du ihm geschrieben hast.'], 'strong': ['dass']}",
+davor,"{'text': ['Das Konzert beginnt um 20 Uhr, ', ' spielen noch zwei Vorbands.'], 'strong': ['davor']}",Adverb
+dazu,"{'text': ['Das stimmt so, ', ' gibt es nichts hinzuzufügen.'], 'strong': ['dazu']}",Adverb
+denn,"{'text': ['Hannes muss sich beeilen, ', ' der Zug kommt gleich.'], 'strong': ['denn']}","Adverb,,Partikel"
+deshalb,"{'text': ['Ich habe morgens ein Vorstellungsgespräch, ', ' gehe ich früh ins Bett.'], 'strong': ['deshalb']}",Adverb
+deswegen,"{'text': ['Ich möchte Hans sehen, ', ' bin ich hier.'], 'strong': ['deswegen']}",
+doch,"{'text': ['Die Sonne scheint, ', ' wir bleiben heute zu Hause'], 'strong': ['doch']}","Adverb,,Partikel"
+ebenso,"{'text': ['Ich liebe Mais, ', ' mag ich Reis.'], 'strong': ['ebenso']}",
+ehe,"{'text': ['Es vergingen vier Stunden, ', ' wir landen konnten'], 'strong': ['ehe']}",
+falls,"{'text': ['Magda kommt ins Theater, ', ' sie die Bahn schafft.'], 'strong': ['falls']}",
+ferner,"{'text': ['Wir brauchen einen Hammer und einen Bohrer, ', ' brauchen wir einige Dübel, Schrauben und Nägel.'], 'strong': ['ferner']}",Adverb
+folglich,"{'text': ['Ich war nicht in der Stadt, ', ' habe ich von dem Unglück erst später erfahren.'], 'strong': ['folglich']}",Adverb
+genauso,"{'text': ['Konjunktionaladverbien verbinden zwei Einheiten, ', ' wie die „richtigen“ Konjunktionen.'], 'strong': ['genauso']}",Adverb
+geschweige,"{'text': ['Sie haben nicht einmal Geld für einen Anzug, ', ' denn für ein Auto.'], 'strong': ['geschweige']}",
+gleichwie,"{'text': ['Hans sparte sein ganze Geld, ', ' er es von zu Hause gewohnt war.'], 'strong': ['gleichwie']}",
+immerhin,"{'text': ['Der Job hat keinen Spaß gemacht, ', ' war er gut bezahlt.'], 'strong': ['immerhin']}",Adverb
+indem,"{'text': ['Peter bedankte sich, ', ' er eine Karte schickte.'], 'strong': ['indem']}",Adverb
+"indes,,indessen","{'text': ['Kirsten las ein Buch, ', ' Rebekka einen Film schaute.'], 'strong': ['indes']}",Adverb
+insofern,"{'text': ['Die Idee ist gut, ', ' sie keinem schadet.'], 'strong': ['insofern']}",Adverb
+insoweit,"{'text': ['Wir greifen ein, ', ' das alles alles richtig ist.'], 'strong': ['insoweit']}",Adverb
+insoweit als,"{'text': [], 'strong': []}",
+inzwischen,"{'text': ['Die Klausur ist in erst 3 Monaten, ', ' bereitet Joshua schon darauf vor.'], 'strong': ['inzwischen']}",Adverb
+je nachdem,"{'text': ['Die Buch ist ein Thriller und ein Liebesroman, ', ' wer es liest.'], 'strong': ['je nachdem']}",
+jedennoch,"{'text': ['Viele Jahre habe ich dein Verhalten ertragen, ', ' ist damit jetzt Schluss.'], 'strong': ['jedennoch']}",
+jedoch,"{'text': ['Er bewarb sich immer wieder, ', ' die Arbeitgeber wollten ihn nicht.'], 'strong': ['jedoch']}",Adverb
+jedoch,"{'text': ['Er bewarb sich immer wieder, ', ' wollten ihn die Arbeitgeber nicht.'], 'strong': ['jedoch']}",Adverb
+kaum,"{'text': ['Hannah wurde schwarz vor Augen, ', ' sie Brad Pitt gesehen hatte.'], 'strong': ['kaum dass']}",Adverb
+minus,"{'text': ['Zehn ', ' drei ist sieben.'], 'strong': ['minus']}","Adverb,,Präposition"
+nachdem,"{'text': ['Ich habe mich verliebt, ', ' ich sie richtig kennengelernt habe.'], 'strong': ['nachdem']}",
+nämlich,"{'text': ['Es gibt vier Jahreszeiten, ', ' Frühling, Sommer, Herbst und Winter.'], 'strong': ['nämlich']}","Adjektiv,,Adverb"
+noch,"{'text': ['Thomas hat keine Verwandten ', ' Freunde.'], 'strong': ['noch']}","Adverb, ,Partikel"
+nun,"{'text': ['Es war zu spät, ', ' er es erfuhr.'], 'strong': ['nun']}","Adverb,,Partikel"
+ob,"{'text': ['Es ist nicht klar, ', ' ich heute noch kommen kann.'], 'strong': ['ob']}",Präposition
+obgleich,"{'text': ['Vielleicht habe ich mir die Worte nicht richtig gemerkt, ', ' ich sie oft gelesen habe.'], 'strong': ['obgleich']}",
+obschon,"{'text': ['Vivian kam zur Arbeit, ', ' sie krank war.'], 'strong': ['obschon']}",
+obwohl,"{'text': ['Susi liebte ihn, ', ' er einige Probleme hatte.'], 'strong': ['obwohl']}",
+obzwar,"{'text': ['Es war eine tolle Party, ', ' es keinen Alkohol gab.'], 'strong': ['obzwar']}",
+oder,"{'text': ['Ich möchte zum Chinesen gehen ', ' wir gehen ins Kino.'], 'strong': ['oder']}",
+ohne,"{'text': ['Sie stimmte ihm zu, ', ' zögern.'], 'strong': ['ohne zu']}",Präposition
+plus,"{'text': ['Sieben ', ' sieben ist vierzehn.'], 'strong': ['plus']}","Adverb,,Präposition"
+respektive,"{'text': ['Wir suchen eine Bewerberin ', ' einen Bewerber mit guten Rechtschreibkenntnissen.'], 'strong': ['respektive']}",
+schließlich,"{'text': ['Heike ist in Ordnung, ', ' hat sie mir immer geholfen.'], 'strong': ['schließlich']}",Adverb
+seit,"{'text': ['Es ist schon über eine Stunde vergangen, ', ' sie in den Wald gegangen ist.'], 'strong': ['seit']}",Präposition
+seitdem,"{'text': ['Mathilda hat sich total verändert, ', ' sie sich verliebt hat.'], 'strong': ['seitdem']}",Adverb
+sintemal,"{'text': ['Ich habe kein Portemonnaie dabei, ', ' ich eigentlich nur spazieren gehen wollte.'], 'strong': ['sintemal']}",
+so,"{'text': ['Wir sehen uns wieder, ', ' Gott will.'], 'strong': ['so']}","Adverb,,Partikel"
+sobald,"{'text': ['Ich rufe dich an, ', ' ich zu Hause bin.'], 'strong': ['sobald']}",
+sodass,"{'text': ['Frank war krank, ', ' er absagen musste.'], 'strong': ['sodass']}",
+sofern,"{'text': ['Ich fliege im April nach Rom, ', ' mein Chef den Urlaub genehmigt.'], 'strong': ['sofern']}",
+solange,"{'text': ['Du wirst keine Beförderung bekommen, ', ' du faul bist.'], 'strong': ['solange']}",Adverb
+sondern,"{'text': ['Wir fahren nicht nach Italien, ', ' nach Griechenland.'], 'strong': ['sondern']}",
+sonst,"{'text': ['Das ist eine Ausnahme, ', ' schlafe ich nicht bis 11 Uhr morgens.'], 'strong': ['sonst']}",Adverb
+sooft,"{'text': ['Hans bringt mir Eier, ', ' ich es möchte.'], 'strong': ['sooft']}",
+sosehr,"{'text': ['Ich muss den Termin absagen, ', ' ich es bedaure.'], 'strong': ['sosehr']}",
+soviel,"{'text': ['Becki hat Urlaub, ', ' ich weiß.'], 'strong': ['soviel']}",
+soweit,"{'text': ['Peter ist der Chef, soweit ich das beurteilen kann.'], 'strong': []}",
+sowenig,"{'text': ['Wir stehen jeden Tag gegen 4 Uhr auf, ', ' ich mich daran gewöhnen kann.'], 'strong': ['sowenig']}",
+sowie,"{'text': ['Sie ', ' ihr Mann waren schon da.'], 'strong': ['sowie']}",
+später,"{'text': ['Bring mir das Zeug mittags vorbei, ', ' würde es mir nicht passen.'], 'strong': ['später']}","Adjektiv,,Adverb"
+statt,"{'text': ['Jonas faulenzte, ', ' zu arbeiten.'], 'strong': ['statt']}",
+trotzdem,"{'text': ['Lucia kam zum Meeting, ', ' sie krank war.'], 'strong': ['trotzdem']}",Adverb
+um,"{'text': ['Ich kenne nur einen Weg, ', ' das Problem ', ' lösen.'], 'strong': ['um']}","Adverb,,Präposition"
+umso,"{'text': ['Je früher die Arbeit fertig ist, ', ' besser.'], 'strong': ['umso']}",
+und,"{'text': ['Ich liebe dich ', ' ich möchte dich heiraten.'], 'strong': ['und']}",
+ungeachtet,"{'text': ['Wir haben das Projekt einfach umgesetzt, ', ' der widersprüchlichen Fakten.'], 'strong': ['ungeachtet']}",
+"dessen ungeachtet,des ungeachtet","{'text': ['Er pflegte sein Kind, ', ' er selbst schwer krank war.'], 'strong': ['ungeachtet dessen, dass']}","meist in der Kombination mit …, dass"
+vorher,"{'text': ['Ich habe das Haus grün gestrichen, ', ' hat es mir einfach nicht gefallen.'], 'strong': ['vorher']}",Adverb
+während,"{'text': ['Einbrecher räumten das Haus aus, ', ' die Familie im Urlaub war.'], 'strong': ['während']}",Präposition
+währenddem,"{'text': ['Nach dem Rasenmähen gab es eine Erfrischung, ', ' es weder Essen noch Trinken gab.'], 'strong': ['währenddem']}",Adverb
+währenddessen,"{'text': ['Kirsten kochte das Mittagessen, ', ' sie mit ihrer Freundin telefonierte.'], 'strong': ['währenddessen']}",Adverb
+wann,"{'text': ['Fiona weiß nicht, ', ' sie Zeit hat.'], 'strong': ['wann']}",
+weil,"{'text': ['Ich fahre nach Italien, ', ' ich das Essen liebe.'], 'strong': ['weil']}",
+wenn,"{'text': ['Alle wollen aus dem Verein austreten, ', ' die Anschuldigungen gegenüber dem Vorsitzenden wirklich wahr sind.'], 'strong': ['wenn']}",
+wenngleich,"{'text': ['Silke gab sich große Mühe, ', ' ihr das Projekt wenig Freude machte.'], 'strong': ['wenngleich']}",
+wennschon,"{'text': ['Er sitzt jeden Abend auf ihrer Lieblingsbank, ', ' seine Frau vor Jahren verstorben ist.'], 'strong': ['wennschon']}",
+wie,"{'text': ['Sie macht ihre Arbeit, ', ' ich es erwartet habe.'], 'strong': ['wie']}",Adverb
+wieweit,"{'text': ['Ich bin im Zweifel, ', ' ich mich darauf verlassen kann'], 'strong': ['wieweit']}",
+wiewohl,"{'text': ['Martins Aussage ist einleuchtend, wiewohl die Argumente nicht ganz nachvollziehbar waren.'], 'strong': []}",
+wo,"{'text': ['Warum wollt ihr immer reisen, ', ' ihr es doch zu Hause so schön habt?'], 'strong': ['wo']}",Adverb
+wobei,"{'text': ['Ich komme mit, ', ' ich keine Lust darauf habe.'], 'strong': ['wobei']}",
+wofern,"{'text': ['Du darfst deine Figur setzen, ', ' du eine sechs gewürfelt hast.'], 'strong': ['wofern']}",
+wohingegen,"{'text': ['Finn hat schwarzes Haar, ', ' seine Geschwister alle blonde Haare haben.'], 'strong': ['wohingegen']}",
+woraufhin,"{'text': ['Die Firma legte alle Referenzen vor, ', ' sie den Auftrag sofort bekam.'], 'strong': ['woraufhin']}",
+zu + Infinitv,"{'text': ['Rick bat ihn\ufeff\ufeff,\ufeff ', ' helfen'], 'strong': ['zu']}",
+zudem,"{'text': ['Helge war seine Bekanntheit als Lügenbaron peinlich, ', ' erwies sich sein Ruf bei Bewerbungen als hinderlich.'], 'strong': ['zudem']}",Adverb
+zumal,"{'text': ['Sie geht nicht in den Pool, ', ' sie nicht schwimmen kann.'], 'strong': ['zumal']}",Adverb
+zuvor,"{'text': ['Johnny küsste sie, ', ' hielt er allerdings kurz inne.'], 'strong': ['zuvor']}",Adverb
+einerseits – andererseits,"{'text': [' hat das Projekt nicht geklappt, ', ' habe ich jede Menge gelernt.'], 'strong': ['Einerseits', 'andererseits']}",
+entweder – oder,"{'text': [' wir fahren ins Schwimmbad ', ' wir gehen ins Kino.'], 'strong': ['Entweder', 'oder']}",
+je – desto,"{'text': [' mehr wir uns streiten, ', ' sympathischer finde ich dich.'], 'strong': ['Je', 'desto']}",
+nicht nur – sondern auch,"{'text': ['Ich kann ', ' jonglieren, ', ' balancieren.'], 'strong': ['nicht nur', 'sondern auch']}",
+sowohl – als auch,"{'text': ['Ich mag ', ' Äpfel ', ' Birnen.'], 'strong': ['sowohl', 'als auch']}",
+weder – noch,"{'text': [' will ich schlafen ', ' bin ich müde.'], 'strong': ['Weder', 'noch']}",
+zwar – aber,"{'text': ['Cornelia isst ', ' gern Salat, ', ' sie mag keine Tomaten.'], 'strong': ['zwar', 'aber']}",
