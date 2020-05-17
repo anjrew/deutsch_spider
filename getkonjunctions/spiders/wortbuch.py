@@ -36,9 +36,17 @@ class WortbuchSpider(scrapy.Spider):
                     word = columns[0].xpath('./strong/text()').extract_first()
                     text = columns[1].xpath('./text()').extract()
                     text = word.join(text);
+                    type = columns[0].xpath('./@bgcolor').extract_first()
+                    if type == '#fbe698':
+                        type = 'nebenordnend'
+                    if type == '#ffd7e4':
+                        type = 'Konjunktionaladverbien'
+                    if type == '#bdffff':
+                        type = 'unterordnend'
 
                     yield {
                         'word': word,
+                        'type': type,
                         'example': text,
                         'also': columns[2].xpath('./text()').extract_first(),
                     }
